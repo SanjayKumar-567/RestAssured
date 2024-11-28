@@ -1,0 +1,13 @@
+{
+  "asset": {
+    "assetType": "room",
+    "status": "Operational"
+  },
+  "room": {
+    "name": "RM-501",
+    "roomNumber": "501",
+    "mobileNumber": "1234567890",
+    "headPersonId": 1,
+    "branchId": 1
+  }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-22T18:39:10 IST" name="Default suite" finished-at="2024-10-22T18:39:13 IST" duration-ms="2658">
+    <groups>
+    </groups>
+    <test started-at="2024-10-22T18:39:10 IST" name="Default test" finished-at="2024-10-22T18:39:13 IST" duration-ms="2658">
+      <class name="assertBed.Bed">
+        <test-method signature="postreg_asset_bed()[pri:0, instance:assertBed.Bed@1de76cc7]" started-at="2024-10-22T18:39:10 IST" name="postreg_asset_bed" finished-at="2024-10-22T18:39:13 IST" duration-ms="2563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postreg_asset_bed -->
+      </class> <!-- assertBed.Bed -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
